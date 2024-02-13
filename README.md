@@ -3,6 +3,7 @@ Budget Tracker
 This is a simple budget tracker project. The project allows users to track their budget starting from $0. Users can add or edit their budget, as well as add and delete expenses. The application provides a section displaying the remaining balance and another section showing the total expenses.
 
 Installation
+
 To run this project locally, follow these steps:
 
 1. Clone the repository:
