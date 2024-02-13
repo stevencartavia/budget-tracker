@@ -19,6 +19,7 @@ npm install
 npm start
 
 Usage
+
 Once the development server is running, open your web browser and navigate to http://localhost:3000 to access the budget tracker application. Here are the main features:
 
 - Starting Budget: The application starts with a budget of $0.
